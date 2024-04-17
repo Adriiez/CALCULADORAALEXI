@@ -13,7 +13,7 @@ body {
 }
 
 .calculadora {
-    background-color: #15173c;
+    background-color: Red;
     color: white;
     width: 350px;
     max-width: 100%;
@@ -26,7 +26,7 @@ body {
 
 .pantalla {
     grid-column: 1 / -1;
-    background-color: Red;
+    background-color: white;
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
